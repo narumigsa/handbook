@@ -18,7 +18,7 @@ behalf of TTS. They achieve this authority by obtaining a warrant, which proves
 they have met certain training, education, experience, and certification
 requirements. As an underlying condition of their warrant, all warranted CO’s
 are required to attain and maintain the appropriate
-[FAC-C certification](https://www.fai.gov/drupal/certification/contracting-fac-c#Cert).
+[FAC-C certification](https://www.fai.gov/certification/fac-c).
 Responsibilities may include but are not limited to:
 
 - Serving as the final decision-maker for all contractual matters.
